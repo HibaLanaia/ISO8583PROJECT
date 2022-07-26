@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1657802098 source:c:\nv info\isomsg\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658493458 source:c:\users\hp\onedrive\bureau\project iso8583 msg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"func.c"
+
+1658227467 c:\users\hp\onedrive\bureau\project iso8583 msg\functions.h
+
+1658238474 c:\users\hp\onedrive\bureau\project iso8583 msg\htb.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"HTB.h"
+
+1658239642 c:\users\hp\onedrive\bureau\project iso8583 msg\htb.h
+
+1658235459 c:\users\hp\onedrive\bureau\project iso8583 msg\posb.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"POSB.h"
+
+1658235459 c:\users\hp\onedrive\bureau\project iso8583 msg\posb.h
+
+1658235459 c:\users\hp\onedrive\bureau\project iso8583 msg\pode.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"PODE.h"
+
+1658235459 c:\users\hp\onedrive\bureau\project iso8583 msg\pode.h
+
+1658235459 c:\users\hp\onedrive\bureau\project iso8583 msg\usode.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"USODE.h"
+
+1658235459 c:\users\hp\onedrive\bureau\project iso8583 msg\usode.h
+
+1658493831 c:\users\hp\onedrive\bureau\project iso8583 msg\func.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"func.h"
+
+1658493527 c:\users\hp\onedrive\bureau\project iso8583 msg\func.h
+
